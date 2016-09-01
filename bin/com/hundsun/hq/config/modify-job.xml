@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<job name="priceJob" class="com.hundsun.hq.modify.job.ModifyPriceJob" cronExpress="00/5 * * * * ?"/>
+	<job name="timeJob" class="com.hundsun.hq.modify.job.ModifyTimeJob" cronExpress="00 30 08 * * ?" />
+	<job name="copyFileJob" class="com.hundsun.hq.modify.job.CopyFileJob" cronExpress="00 30 08 * * ?"></job>
+</root>

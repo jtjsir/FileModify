@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<modify actionName="头信息" actionKey="HEADER" code="00001">6</modify>
+	<modify actionName="主推" actionKey="MD401" code="00001">6,7,8,9,10,11,13</modify>
+	<modify actionName="市调" actionKey="MD404" code="00001">6,7,8</modify>
+	<modify actionName="集合竞价" actionKey="MD405" code="00002">4,5,6</modify>
+</root>
